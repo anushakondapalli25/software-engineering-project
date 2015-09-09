@@ -1,0 +1,99 @@
+1.	Introduction/Overview
+1.1. Purpose
+The purpose of this software is to incorporate user-selected information from its database of greenhouse designs, operation, and geographic climate conditions, and graphically displays dynamic changes in greenhouse environments, including moist air properties. The animation allows learners to simulate changes in the greenhouse-plant environment based on climate, structure, and environmental control choices.
+1.2. Scope
+1.2.1. Main Objective
+The greenhouse environment simulator is a computer simulation program designed to be used as an indicator for the customer about the optimal growing environments of plants. The software should also allow customer to specify parameters for different rooms and planting beds within the rooms. In addition to this the software should allow customer to enter data for plant growth and yields so that comparisons of parameters to growth/yield can easily be compared.
+1.2.2. Specific goals
+To create a simulator for a greenhouse to perform experiments on a number of different varieties of plants. The customer desires a software i.e., text base interface.
+1.3. Overview of Document
+The main intention of the document is to inform the customer about the development of the intended system.  Hardware and software requirements, major users, both major and minor functions, constraints, and intended user interface are described.
+
+2. Users
+2.1. Who are users?
+The person who is the owner or caretaker of the green house.
+2.2. Use cases and use case diagrams: --------------
+
+3. System
+3.1. Development Environment
+The project development environment will be as follows:
+Hardware will include a personal (desktop or notebook) computer with the following specifications:
+•	a Pentium 4 microprocessor running at 2.0 GHz or above
+•	a minimum of 128 megabytes of system RAM
+•	a CD-RW drive
+•	a v.92-compliant 56K modem
+•	a hard drive with at least 2 gigabytes of free space 
+•	an XGA screen display 14” or larger
+•	a graphics card with 16 megabytes or more of RAM
+Software will include:
+•	Windows 7 
+•	Microsoft Visual Studio 2013
+•	Database software
+•	Microsoft Project
+3.2. Target Environment
+The customer’s environment will be as follows:
+Hardware will include a personal (desktop or notebook) computer with the following specifications:
+•	a Pentium 4 microprocessor running at 2.0 GHz or above
+•	a minimum of 128 megabytes of system RAM
+•	a CD-RW drive
+•	a v.92-compliant 56K modem
+•	a hard drive with at least 2 gigabytes of free space 
+•	an XGA screen display 14” or larger
+•	a graphics card with 16 megabytes or more of RAM
+Software utilized will include:
+•	Windows 2000 
+•	Microsoft Visual Studio 2013
+•	Database software
+•	Microsoft Project
+3.3. Functional Requirements
+3.3.1. Issues
+While the final version of the proposed software has many requirements:
+•	Basic control of room systems such as lighting, fog spraying for humidity control and planting bed parameters.
+•	If the plant grow larger, its watering and fertilizer needs become greater.
+•	Lighting parameters may also need to be increased or reduced to mimic seasonal changes.
+3.3.2. Major Subsystems or Functions:????????
+3.3.3. Major classes identified:???????????
+3.3.4. Minor system functions:????????????
+3.4. User Interface Specification
+It’s a text based interface.
+•	In a typical summer day in Wichita Falls, TX, it is clear that air-condition is required as a way to reduce the greenhouse inside temperature at most to the outside temperature.
+•	This scenario is implemented in winter in Wichita Falls, TX works for this particular climate, but may not be appropriate for other conditions. The control component (set-point definition) requires specific values for each of the climates. The control definitions establish the set-points to maintain a greenhouse air temperature at 18 °C during the night and 24 °C during daytime.
+3.5. Non-functional requirements
+3.5.1. Management
+Due to this being a student-developed project, there will be no cost incurred on our part.  Project must be developed during the Fall semester and completed by December 2015. Periodic reviews and testing of the listed functions should be conducted to insure that the project meets the requirements.  This also includes verifying the database while interacting with the customer.
+3.5.2. Technical
+This project must run on a standard Windows 7 system.  Likewise, the development environment will also be Windows 7. The project is to be written in Microsoft Visual Studio.
+3.5.3 Performance
+To produce high reliability on this software, system testing will be performed several times during the development of the project. Testing will include unit testing, integrated testing, interface testing, and so forth. The efficiency of disk space and memory will be specified later in the development phase. The prototype should also be user-friendly, in that it needs to impress those of whom it is demonstrated to.
+3.5.4. Security
+The project will have a standard password access to demonstrate that security is possible in later versions.
+3.6. System Evolution/Maintenance :?????
+
+4. Other Deliverables
+At the end of the project (December 2015), a project plan, requirements specification document, test plan, prototype, and user manual outline will be delivered to the customer.
+
+5. Risks
+The risks involved in the development of the system include lack of communication, possible unavailability of team members. Such a risk will be tackled by demanding that team members keep an additional copy of all work done on the teams Github account. There is also the risk that the developers do not have a complete understanding of the entire greenhouse system in general. 
+
+6. Glossary
+Humidity: A quantity representing the amount of water vapor in the atmosphere or a gas.
+Soil acidity: soil that has a pH (indication of the acidity) of less than 7.0 (neutral)
+Fertilization: The action or process of fertilizing an egg, female animal, or plant, involving the fusion of male and female gametes to form a zygote.
+
+7. References
+Wei, Dr.Bingyang
+Stringfellow, Dr.Catherine
+
+
+
+
+
+
+
+
+
+	
+	
+	
+ 
+	
